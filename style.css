@@ -1,12 +1,5 @@
 html {
-    background-color: black;
-    font-family: 'Inter', sans-serif;
-    color: #fff;
+  background-color: black !important; 
+  font-family: 'Inter', sans-serif;
+  color: #fff;
 }
-
-body {
-background-color: yellow !important;
-
-    
-}
-    
