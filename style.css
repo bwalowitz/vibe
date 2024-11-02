@@ -1,5 +1,9 @@
 html {
-  background-color: black !important; 
+  background-color: black !important;
   font-family: 'Inter', sans-serif;
   color: #fff;
+}
+
+body { 
+  background-color: black !important; /* Add this line */
 }
