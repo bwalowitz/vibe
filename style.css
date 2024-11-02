@@ -4,6 +4,6 @@ html, body, #wrap { /* Target multiple levels */
   color: #fff !important;
 }
 
-.mce-content h2 {
-  font-size: 80px;
+body #main-content .container h2 {  /* Example - adjust as needed */
+  font-size: 80px !important;
 }
