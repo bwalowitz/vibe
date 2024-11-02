@@ -1,4 +1,4 @@
-<script>
+
   var css = `
   html, body, #wrap { 
     background-color: black !important; 
@@ -28,4 +28,3 @@ document.head.appendChild(style);  
 const body = document.body;
 body.style.background = 'none'; 
 body.style.backgroundColor = 'black'; 
-</script>
