@@ -1,5 +1,12 @@
-body {
-    background-color: #000;
+html {
+    background-color: black;
     font-family: 'Inter', sans-serif;
     color: #fff;
 }
+
+body {
+background-color: yellow !important;
+
+    
+}
+    
