@@ -1,5 +1,5 @@
 html, body, #wrap { /* Target multiple levels */
-  background-color: black !important; 
+  background-color: blue !important; 
   font-family: 'Inter', sans-serif !important;
   color: #fff !important;
 }
