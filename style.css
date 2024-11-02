@@ -7,3 +7,7 @@ html {
 body { 
   background-color: black !important; /* Add this line */
 }
+
+bg-white {
+  background-color: yellow !important;
+}
