@@ -1,13 +1,5 @@
-html {
-  background-color: yellow !important;
-  font-family: 'Inter', sans-serif;
-  color: #fff;
-}
-
-body { 
-  background-color: yellow !important; /* Add this line */
-}
-
-.bg-white {
-  background-color: yellow !important;
+html, body, #wrap { /* Target multiple levels */
+  background-color: black !important; 
+  font-family: 'Inter', sans-serif !important;
+  color: #fff !important;
 }
