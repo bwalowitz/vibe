@@ -1,13 +1,13 @@
 html {
-  background-color: black !important;
+  background-color: yellow !important;
   font-family: 'Inter', sans-serif;
   color: #fff;
 }
 
 body { 
-  background-color: black !important; /* Add this line */
+  background-color: yellow !important; /* Add this line */
 }
 
-bg-white {
+.bg-white {
   background-color: yellow !important;
 }
