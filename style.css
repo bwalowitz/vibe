@@ -6,4 +6,5 @@ html, body, #wrap { /* Target multiple levels */
 
 body #main-content .container h2 {  /* Example - adjust as needed */
   font-size: 80px !important;
+  color: white !important;
 }
