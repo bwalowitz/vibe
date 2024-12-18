@@ -1,18 +1,17 @@
 
   var css = `
   html, body, #wrap { 
-    /*background-color: black !important; */
     font-family: 'Inter', sans-serif !important;
-    /* color: #fff !important;*/
+
   }
 
   h2 { 
     font-size: 36px !important; 
-    /* color: white !important;*/
+
   }
 
 li {
-/* color: white !important;*/
+
 }
 
   /* Add any other CSS rules here */ 
