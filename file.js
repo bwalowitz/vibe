@@ -87,5 +87,4 @@ document.head.appendChild(style);  
 
 // Try to remove inline background styles (keep this from before)
 const body = document.body;
-body.style.background = 'none'; 
-body.style.backgroundColor = 'black'; 
+
