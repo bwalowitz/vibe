@@ -1,7 +1,6 @@
 
   var css = `
   html, body, #wrap { 
-
     font-family: 'Inter', sans-serif !important;
   }
 
@@ -9,8 +8,6 @@
     font-size: 36px !important; 
   }
 
-li {
-}
 
 
   /* Add any other CSS rules here */ 
