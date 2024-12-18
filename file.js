@@ -36,17 +36,20 @@
 
 #agents li:hover {
     transform: translateY(-5px);
+    text-align: center;
 }
 
 #agents .h-28.w-28 {
     height: 200px;
     width: 200px;
     margin-bottom: 1rem;
+    text-align: center;
 }
 
 #agents .flex.flex-col.pl-6 {
     padding: 0;
     width: 100%;
+    text-align: center;
 }
 
 #agents img {
@@ -61,6 +64,8 @@
     #agents ul {
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
         gap: 1rem;
+
+        text-align: center;
     }
     
     #agents .h-28.w-28 {
